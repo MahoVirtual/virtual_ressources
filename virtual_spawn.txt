@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"Fixed the problem with buying vehicle with when using option Config.UseRoutingBucketsInShowRoom"}
+{"version":"1.1.1", "notes":"Giant patch before smartphone version 3, remember to read the entire changelog"}
